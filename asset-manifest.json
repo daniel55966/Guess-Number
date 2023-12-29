@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daniel55966/Guess-Number/static/css/main.85539606.css",
+    "main.js": "/daniel55966/Guess-Number/static/js/main.f937c2ca.js",
+    "static/js/787.f5ef7400.chunk.js": "/daniel55966/Guess-Number/static/js/787.f5ef7400.chunk.js",
+    "index.html": "/daniel55966/Guess-Number/index.html",
+    "main.85539606.css.map": "/daniel55966/Guess-Number/static/css/main.85539606.css.map",
+    "main.f937c2ca.js.map": "/daniel55966/Guess-Number/static/js/main.f937c2ca.js.map",
+    "787.f5ef7400.chunk.js.map": "/daniel55966/Guess-Number/static/js/787.f5ef7400.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85539606.css",
+    "static/js/main.f937c2ca.js"
+  ]
+}
